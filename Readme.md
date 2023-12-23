@@ -17,6 +17,6 @@ ctrl + c, затем ctrl + клик на local url (в консоли)
 
 ## зависимости:
 ```shell
-$ pip install torch, transformers, streamlit
+$ pip install torch, transformers, streamlit, tensorflow
 ```
 
