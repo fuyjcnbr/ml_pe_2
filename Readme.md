@@ -20,3 +20,6 @@ ctrl + c, затем ctrl + клик на local url (в консоли)
 $ pip install torch, transformers, streamlit, tensorflow
 ```
 
+shape1 = (224, 224, 3)
+shape2 = (1, 224, 224, 3)
+shape3 = (1, 224, 224, 3)
